@@ -28,6 +28,7 @@
  * Profile Picture and Avatar from Webcam Snapshot
  * Cleanup Old Logs, Snapshots, Shared Files
 
+[PHP Webcam Video Conference Demo](https://videowhisper.com/demos/conference/)
 
 ## Installation Instructions for PHP Live Video Streaming Software
  * Before installing, make sure your hosting environment meets all [requirements](https://videowhisper.com/?p=Requirements) (including a supported RTMP server). 

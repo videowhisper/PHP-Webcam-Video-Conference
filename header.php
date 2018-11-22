@@ -43,4 +43,4 @@ input {
 }
 -->
 </style>
-<div style="background-color:#333; padding:10px; font-size:17px"><font color="#CCCCCC">VideoWhisper <a href="https://www.videowhisper.com/?p=Video+Conference">Video Conference</a></font></div>
+<div style="background-color:#333; padding:10px; font-size:17px"><font color="#CCCCCC">VideoWhisper <a href="https://videowhisper.com/?p=Video+Conference">Video Conference</a></font></div>

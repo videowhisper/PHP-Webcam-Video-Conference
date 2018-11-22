@@ -58,7 +58,7 @@ if ($room=="Private") $room=$room."_".base_convert((time()-1258100000).rand(0,10
 		
   <?php
 include("settings.php");
-if (strstr($rtmp_server, "://localhost/")) echo "<P class='warning'>Warning: You are using a localhost based rtmp address ( $rtmp_server ). Unless you are just testing this with a rtmp server on your own computer, make sure you fill a <a href='http://www.videowhisper.com/?p=RTMP+Applications'>compatible rtmp address</a> in settings.php.</P>";
+if (strstr($rtmp_server, "://localhost/")) echo "<P class='warning'>Warning: You are using a localhost based rtmp address ( $rtmp_server ). Unless you are just testing this with a rtmp server on your own computer, make sure you fill a <a href='https://videowhisper.com/?p=RTMP+Applications'>compatible rtmp address</a> in settings.php.</P>";
 ?>
 	
 </form>
